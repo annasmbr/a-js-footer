@@ -1,0 +1,25 @@
+{
+  "name": "a-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JavaScript Applications with an updated year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annasmbr/a-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Anna <donanna77@hotmail.com> (http://www.annahomepage.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annasmbr/a-js-footer/issues"
+  },
+  "homepage": "https://github.com/annasmbr/a-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.27.0"
+  }
+}
